@@ -1,5 +1,5 @@
 /* CHIEDIAMO ALL'UTENTE QUANDO DESIDERA SIA GRANDE L'ARRAY */
-let grandezza = prompt("Inserisci la grandezza dell'array")
+let grandezza = parseInt(prompt("Inserisci la grandezza dell'array"))
 /* DICHIARIAMO LA CONST ARRAY VUOTA */
 const array = []
 
