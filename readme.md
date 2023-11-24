@@ -29,7 +29,14 @@ Cartella: array_bonus
 Crea due array che hanno un numero di elementi diversi.
 Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti quanti l’altro.
 
+
+ESERCIZIO 1
 1 - creiamo un array contente i vari elementi del frigorifero.
 2 - tramite la funzione push andiamo ad aggiungere all'array la pesca.
 3 - creiamo un ciclo for per andare a controllare se nell'array è presente l'elemento cocomero.
 4 - qual'ora sia presente verra visualizzato un messaggio di successo altrimenti un messaggio negativo.
+
+ESERCIZIO 2
+1 - tramite prompt chiediamo all'utente quanto deve essere grande l'array
+2 - creiamo un array della dimensione data dall'utente e riempiamolo utilizzando dei valori generati randomicamente.
+3 - su console, andiamo a visualizzare gli ultimi 5 elementi dell'array
